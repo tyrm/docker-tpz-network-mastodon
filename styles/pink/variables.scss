@@ -12,7 +12,7 @@ $red-bookmark: $warning-red;
 // https://www.colourlovers.com/palette/2612792/Dog_Mechanics
 $classic-base-color: #FFEAF2;
 $classic-primary-color: #F1396D;
-$classic-secondary-color: #FBC5D8;
+$classic-secondary-color: darken($classic-primary-color, 26%);
 $classic-highlight-color: #F1396D;
 
 // Variables for defaults in UI
