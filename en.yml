@@ -1192,6 +1192,7 @@ en:
     default: Mastodon (Dark)
     mastodon-light: Mastodon (Light)
     natural: Natural
+    pink: Pink
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
