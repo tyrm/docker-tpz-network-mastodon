@@ -1,4 +1,4 @@
-FROM tyrm/mastodon:v3.4.6
+FROM tyrm/mastodon:v3.5.0
 
 ADD styles/  /opt/mastodon/app/javascript/styles/
 COPY themes.yml /opt/mastodon/config/themes.yml
